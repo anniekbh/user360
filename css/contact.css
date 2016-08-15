@@ -1,0 +1,65 @@
+body{
+    background-image: url(../image/large.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 12% 0%;
+}
+.box{
+    border: solid 2px silver;
+    border-top:solid 7px #046BB8;
+    background-color: white;
+}
+.form{
+    padding: 0% 4% 2%;
+}
+h3{
+    margin:0%;
+}
+hr{
+    margin:0%;
+    width: 85%;
+    border-top:2px solid black;
+}
+.texto{
+    text-align:left;
+    padding-left:3%;
+}
+.form-control{
+    margin:2%;
+    border-radius:0%;
+    font-size:9px;
+    height:0.1%;
+    width: 60%;
+}
+.boton{
+    padding-left: 2%;
+}
+.btn{
+    margin:2%;
+    padding:0.5% 1%;
+    font-size:12px;
+    border-radius:0%;
+}
+.power{
+    margin:0%;
+    padding:0%;
+    font-size:80%;
+    text-align:left;
+}
+.report{
+    margin:0%;
+    padding:0%;
+    font-size:80%;
+    text-align:right;
+}
+
+
+
+
+
+
+
+
+
+
+
